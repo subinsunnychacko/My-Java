@@ -17,7 +17,7 @@ public class Amstrong
 		}
 		if(tot==a)
 		{
-			 System.out.println(a + " is an Armstrong number");      	            
+			 System.out.println(a + " is an Armstrong number12111");      	            
 		}
 		else
 		{
